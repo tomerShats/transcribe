@@ -1,0 +1,30 @@
+{
+  "name": "transcribe-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.817.0",
+    "aws-transcribe": "^1.1.0",
+    "axios": "^0.21.1",
+    "body-parser": "^1.19.0",
+    "config": "^3.3.3",
+    "connect-busboy": "0.0.2",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "file-system": "^2.2.2",
+    "http": "0.0.1-security",
+    "https": "^1.0.0",
+    "multer": "^1.4.2",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "@aws-sdk/client-transcribe": "^3.1.0",
+    "nodemon": "^2.0.6"
+  }
+}

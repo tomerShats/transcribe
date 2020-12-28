@@ -1,0 +1,6 @@
+{
+    "awsAccessKeyId": "AKIAJ4EOY7KMX5K4B7NQ",
+    "secretAccessKey": "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",
+    "region": "eu-central-1",
+    "s3bucketName": "transcribetomer"
+  }
